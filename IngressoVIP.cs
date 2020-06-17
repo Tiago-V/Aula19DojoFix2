@@ -3,7 +3,6 @@ namespace DojoFix2
     public class IngressoVIP : Ingresso
     {
         public float ValorAd { get; set; }
-
         public float Result { get; set; }
         public void ValorAdicional(){
 
