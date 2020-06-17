@@ -6,7 +6,9 @@ namespace DojoFix2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Ingresso invite = new Ingresso();
+            IngressoVIP vip = new IngressoVIP();
+
         }
     }
 }
